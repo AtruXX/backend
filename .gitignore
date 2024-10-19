@@ -370,4 +370,7 @@ pyrightconfig.json
 .history
 .ionide
 
+#secret
+AtruX/AtruX/secret.py
+
 # End of https://www.toptal.com/developers/gitignore/api/django,python,pycharm+all,visualstudiocode
